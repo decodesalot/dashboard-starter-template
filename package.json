@@ -1,0 +1,19 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard starter template",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w assets/scss/ -o assets/dist/css/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["UX Engineer", "Bootstrap 5 Boilerplate"],
+  "author": "Derrick Reeder",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
